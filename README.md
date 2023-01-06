@@ -1,6 +1,4 @@
-# Writebot
+# Curhat Bot
 
-Demo Laravel with OpenAI.
-
-![writebot](/public/writebot.png)
+![curhatbot](/public/curhatbot.png)
 
